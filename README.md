@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ninoredoble.is--a.dev-2B4C82?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ninoredoble.is-a.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-g--redoble-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/g-redoble)
 [![Email](https://img.shields.io/badge/Email-redoble.gninoemmanuel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:redoble.gninoemmanuel@gmail.com)
-[![CCNA Certified](https://img.shields.io/badge/CCNA-Enterprise%20Networking-005B94?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/)
+
 
 </div>
 
