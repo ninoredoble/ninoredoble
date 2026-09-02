@@ -33,7 +33,6 @@
     </td>
     <td width="40%" align="center">
       <img src="https://raw.githubusercontent.com/ninoredoble/gnegr-portfolio/main/img/GNEGR.svg" width="220" alt="GNEGR Brand Emblem" /><br/>
-      <sub><b>GNEGR Engineering Mark</b></sub>
     </td>
   </tr>
 </table>
@@ -101,17 +100,12 @@ Want to explore my engineering case studies, system architectures, and live depl
 
 ---
 
-## 🏆 GitHub Trophies & Streaks
+## 📊 GitHub Activity & Streak
 
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ninoredoble&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=E24E1B&currStreakLabel=3B82F6)](https://github.com/ninoredoble)  
 
-<div style="margin-top: 10px;">
-  <a href="https://github.com/ninoredoble">
-    <img src="https://github-profile-trophy.vercel.app/?username=ninoredoble&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</div>
 </div>
 
 ---
