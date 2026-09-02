@@ -101,15 +101,10 @@ Want to explore my engineering case studies, system architectures, and live depl
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Streak
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninoredoble&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=E24E1B&currStreakLabel=3B82F6" alt="GitHub Streak" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninoredoble&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=E24E1B&text_color=9AA2B1" alt="Niño Redoble GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninoredoble&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=9AA2B1" alt="Top Languages" height="165" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ninoredoble&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=E24E1B&currStreakLabel=3B82F6)](https://github.com/ninoredoble)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ninoredoble&theme=tokyo-night&bg_color=0D1117&color=3B82F6&line=3B82F6&point=E24E1B&hide_border=true)](https://github.com/ninoredoble)
 </div>
 
 ---
