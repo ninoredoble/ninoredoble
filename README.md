@@ -88,14 +88,6 @@
 
 ---
 
-## 📊 GitHub Activity & Streak
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ninoredoble&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=E24E1B&currStreakLabel=3B82F6)](https://github.com/ninoredoble)
-
-</div>
-
 <br/>
 <div align="center">
   <sub><i>Engineered with precision. Building, learning, improving 🚀</i></sub>
