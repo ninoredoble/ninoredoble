@@ -1,0 +1,40 @@
+﻿name: Generate Typing ASCII Portrait
+
+on:
+  push:
+    paths:
+      - 'img/**'
+      - 'scripts/**'
+  workflow_dispatch:
+
+jobs:
+  build-ascii:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install rembg opencv-python pillow numpy
+
+      - name: Run photo prep
+        run: |
+          python scripts/prep_photo.py img/GNEGR.png source-prepped.png
+
+      - name: Generate ASCII SVG
+        run: |
+          python scripts/make_ascii_svg.py source-prepped.png nino-ascii.svg
+
+      - name: Commit and push generated art
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: chore: update animated ascii portrait [skip ci]
+          file_pattern: nino-ascii.svg source-prepped.png
