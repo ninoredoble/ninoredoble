@@ -6,17 +6,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%26+Network+Engineer;BS+Information+Technology+%E2%80%94+Magna+Cum+Laude;CCNA+Certified+%E2%80%94+Enterprise+Networking+%26+Security;Architecting+Modern+Web+%26+Cloud+Deployments" alt="Typing SVG" />
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ninoredoble.is--a.dev-2B4C82?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ninoredoble.is-a.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-g--redoble-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/g-redoble)
-[![Email](https://img.shields.io/badge/Email-redoble.gninoemmanuel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:redoble.gninoemmanuel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/g-redoble)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:redoble.gninoemmanuel@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Website-2B4C82?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ninoredoble.is-a.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ninoredoble)
 
 <br/><br/>
 
 <table>
   <tr>
-    <td align="center">
-      <img src="./nino-ascii.svg" width="450" alt="Niño Redoble — Animated Monochrome ASCII Portrait" />
-    </td>
+    <td valign="top"><img src="./nino-ascii.svg" width="370" alt="Niño Redoble — ASCII Portrait" /></td>
+    <td valign="top"><img src="./wordmark.svg" width="490" alt="GNEGR — 3D ASCII Wordmark" /></td>
   </tr>
 </table>
 
@@ -28,20 +28,17 @@
 
 <table>
   <tr>
-    <td width="60%">
-      <p>I'm <b>G. Niño Emmanuel G. Redoble</b> (known online as <b>GNEGR</b>), a Full-Stack Developer and CCNA-Certified Network Specialist based in Cagayan de Oro, Philippines.</p>
-      <p>I architect and engineer resilient web applications, mobile platforms, and secure network infrastructure. My development background spans asynchronous backend architectures, responsive modern user interfaces, relational and NoSQL databases, and containerized cloud deployments.</p>
-      <p>I am passionate about turning complex system requirements into high-performance, production-ready digital solutions.</p>
+    <td width="65%">
+      <p><b>Full-Stack Developer & CCNA-Certified Network Engineer</b> specializing in high-performance web systems, distributed cloud deployments, and secure network infrastructure.</p>
       <ul>
-        <li>🎓 <b>BS in Information Technology</b> graduate (<b>Magna Cum Laude</b>) from <i>University of Science and Technology of Southern Philippines (USTP)</i></li>
-        <li>💼 <b>UI/UX & System Development Intern</b> at <b>CEPALCO</b> (Web Ticketing & Fuel Tracking suite using React, FastAPI, SQLAlchemy, Docker, and Nginx)</li>
-        <li>🌐 <b>CCNA Certified</b> in Enterprise Networking, Security, and Automation (Credly, 2024)</li>
-        <li>👥 <b>Team Lead & System Analyst</b> for <b>BuyNaBay</b> (5-person campus marketplace, React Native + Vercel)</li>
-        <li>🧑‍🏫 <b>Academic Consultant & Mentor</b> for 10+ students across software architecture and engineering</li>
+        <li>🎓 <b>BS in Information Technology (Magna Cum Laude)</b> — USTP</li>
+        <li>💼 <b>CEPALCO</b> — Engineered Web Ticketing & Fuel Tracking architectures (FastAPI, React, Docker, Nginx)</li>
+        <li>🌐 <b>CCNA Certified</b> — Enterprise Networking, Security & Automation (Credly)</li>
+        <li>👥 <b>BuyNaBay</b> — Team Lead & System Analyst for campus commerce platform (React Native)</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/ninoredoble/gnegr-portfolio/main/img/GNEGR.svg" width="220" alt="GNEGR Brand Emblem" /><br/>
+    <td width="35%" align="center">
+      <img src="https://raw.githubusercontent.com/ninoredoble/gnegr-portfolio/main/img/GNEGR.svg" width="200" alt="GNEGR Brand Emblem" /><br/>
     </td>
   </tr>
 </table>
@@ -50,25 +47,9 @@
 
 ## 🌐 Portfolio & Brand
 
-Want to explore my engineering case studies, system architectures, and live deployments?
+👉 **[Live Portfolio — ninoredoble.is-a.dev](https://ninoredoble.is-a.dev/)** &nbsp;|&nbsp; 📖 **[Brand Guidelines](https://ninoredoble.is-a.dev/gnegr-brand-guidelines.html)**
 
-👉 **[Visit my official portfolio — ninoredoble.is-a.dev](https://ninoredoble.is-a.dev/)**  
-📖 **[View Brand Guidelines — ninoredoble.is-a.dev/gnegr-brand-guidelines.html](https://ninoredoble.is-a.dev/gnegr-brand-guidelines.html)**
-
-> **GNEGR** is my personal brand and digital engineering identity, while **G. Niño Emmanuel G. Redoble** is my professional name.
-
----
-
-## 🤝 Talk and Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/g-redoble)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:redoble.gninoemmanuel@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Website-2B4C82?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ninoredoble.is-a.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ninoredoble)
-
-</div>
+> **GNEGR** is my digital engineering identity, and **G. Niño Emmanuel G. Redoble** is my professional name.
 
 ---
 
@@ -113,7 +94,7 @@ Want to explore my engineering case studies, system architectures, and live depl
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ninoredoble&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=E24E1B&currStreakLabel=3B82F6)](https://github.com/ninoredoble)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ninoredoble&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=E24E1B&currStreakLabel=3B82F6)](https://github.com/ninoredoble)
 
 </div>
 
@@ -121,7 +102,6 @@ Want to explore my engineering case studies, system architectures, and live depl
 
 ## 🚀 Currently Building & Learning
 
-I am continuously developing and scaling projects involving:
 - ⚡ **Full-Stack Web Architectures** (React.js, FastAPI, Node.js, Laravel)
 - 📱 **Cross-Platform Mobile Apps** (React Native)
 - 🔒 **Enterprise Network Security & Automation** (CCNA, Routing/Switching, Infrastructure Hardening)
@@ -129,6 +109,7 @@ I am continuously developing and scaling projects involving:
 - 🐳 **Containerization & CI/CD Pipelines** (Docker, Nginx Reverse Proxies, Linux)
 - 🤖 **Applied AI & Workflow Automation**
 
+<br/>
 <div align="center">
   <sub><i>Engineered with precision. Building, learning, improving 🚀</i></sub>
 </div>
