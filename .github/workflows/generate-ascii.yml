@@ -1,4 +1,4 @@
-﻿name: Generate Typing ASCII Portrait
+name: Generate Typing ASCII Portrait
 
 on:
   push:
@@ -36,5 +36,5 @@ jobs:
       - name: Commit and push generated art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: chore: update animated ascii portrait [skip ci]
-          file_pattern: nino-ascii.svg source-prepped.png
+          commit_message: "chore: update animated ascii portrait [skip ci]"
+          file_pattern: "nino-ascii.svg source-prepped.png"
