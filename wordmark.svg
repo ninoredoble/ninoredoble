@@ -13,19 +13,19 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ---      -- --    -----      ---     ----     </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    ------    -----     ----     -----    </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    ------    -----     -----    ------   </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    --       ---+--    ------   </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+--     ------    -----    --- -     ------   </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---    ------    -----    ------    ------   </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---    ------    -----    ------    -----    </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---    ------    --       +-----    -----    </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    --+---    -----     -----    -----    </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    --+---    -----     -----    ------   </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ---c     --c---    -----      ---     +--+--   </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ---     ------    -----     ----     -----    </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    -----+    -----     ----     -----    </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    -----+    -----    ------    -----    </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    -----+    -----    ------   %-----    </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----c    -----+    --       -----    %-----    </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---%   -----+    -----    ------   %-----    </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---%   -----+    -----    ------   %-----    </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---%   -----+    -----    ------   %-----    </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------%   -----+    --       ------   %-----    </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------%   -----+    -----    ------   %-----    </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----%   -----+    -----    +-----   %-----    </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----c    -----+    -----     ----    %-----    </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     -----c    -----     ----     ------   </text>
 <text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
@@ -36,19 +36,19 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ---      -- --    -----      ---     ----     </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    ------    -----     ----     -----    </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    ------    -----     -----    ------   </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    --       ---+--    ------   </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+--     ------    -----    --- -     ------   </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---    ------    -----    ------    ------   </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---    ------    -----    ------    -----    </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---    ------    --       +-----    -----    </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    --+---    -----     -----    -----    </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    --+---    -----     -----    ------   </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ---c     --c---    -----      ---     +--+--   </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ---     ------    -----     ----     -----    </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    -----+    -----     ----     -----    </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    -----+    -----    ------    -----    </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    -----+    -----    ------   %-----    </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----c    -----+    --       -----    %-----    </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---%   -----+    -----    ------   %-----    </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---%   -----+    -----    ------   %-----    </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---%   -----+    -----    ------   %-----    </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------%   -----+    --       ------   %-----    </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------%   -----+    -----    ------   %-----    </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----%   -----+    -----    +-----   %-----    </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----c    -----+    -----     ----    %-----    </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     -----c    -----     ----     ------   </text>
 <text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
@@ -59,19 +59,19 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      %%%      -- --    -----     ----     ----     </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     ------    -----     ----     -----    </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----     -----    -----    </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----+    ------    ---      ---=--    -----    </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+--     ------    -----    ---       -----    </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    ------    -----    </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----+    ------    -----    ------    -----    </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----+    ------    ---%%    ------    -----    </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----+    --+---    -----    %-----    -----    </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----c    --+---    -----     -----    ------   </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ---c     --c --    -----      ---      -----   </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     ------    -----     ----    -----     </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    -----+    -----     ----    ------    </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    -----+    -----    ------   ------    </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----+    -----+    -----    ------   ------    </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+--%    ------    ---      -----    ------    </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --c---    ------    -----    ------   ------    </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---    ------    -----    ------   ------    </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---    ------    -----    ------   -----     </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    ---      ------   ------    </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    ------   ------    </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    =-----   ------    </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----     ----    ---=--    </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     ------    -----     =--      --=--    </text>
 <text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
@@ -82,20 +82,20 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">               %% %%    -----     ----    -----     </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     --- --    -----    -----    ------    </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     --- --    -----    ------   ------    </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    --- --    ---      ---=--   ---=--    </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --%--     ------    -----    ---      ------    </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    ------   ------    </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    ------   -----     </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    ---%%    ------   ------    </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    =-----   ------    </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----z    ------    -----     ----    =--=--    </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     --- --    =----      ---              </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     ------    -----     ----    -----     </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     ------    -----    -----    -----     </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    -----    ------    </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    -----    -----     </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    ---      -----    -----     </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --z       ------    -----    ------   -----     </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    ------   -----     </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    ------   -----     </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    ---      ------   -----     </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    ------   -----     </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    =-----   ------    </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----     ----    ------    </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----     =--      ----     </text>
+<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ---      --                                    </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.10000;0.15000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
@@ -105,20 +105,20 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                  %%    -----     ----    -----     </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     ------    -----    -----    ------    </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----    ------   ------    </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    ---      ------   ------    </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -- --     ------    -----    ---      ------    </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    ------   -----     </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    ------   -----     </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    ---%%    ------   -----     </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    =-----   ------    </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----z    ------    -----     ----    =--=--    </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    =----                       </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -                                              </text>
-<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     ------    -----     ----   %-----     </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     ------    -----    -----   %-----     </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----%    ------    -----    -----   %-----     </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----%    ------    -----    -----   %-----     </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    ---      -----   %-----     </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --%       ------    -----    ------  %-----     </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    ------  %-----     </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    ------  %-----     </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    ---      ------  %-----     </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    ------  %-----     </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    ------  %-----     </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----z    ------    -----    %----   %-----     </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----     =--               </text>
+<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ---      -----                                 </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.15000;0.20000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
@@ -128,20 +128,20 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                        -----     ----    -----     </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     ------    -----    -----    -----     </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----    ------   ------    </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    ---      ------   ------    </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -- --     ------    -----    ---##    ------    </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">   -------    ------    -----    ------   -----     </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    ------   -----     </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    ---##    ------   -----     </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    ------   ------    </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----     ----    ------    </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----                       </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ---                                            </text>
-<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ---      ------    -----     ---    -----      </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----    -----   ------     </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----    -----   ------     </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----    -----   ------     </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --z--     ------    ---      -----   ------     </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">   ---        ------    -----    -----   ------     </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">   -------    ------    -----    -----   ------     </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">   ------*    ------    -----    -----   -----      </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">   ------*    ------    ---      -----   ------     </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    -----   ------     </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    =----   ---=--     </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----z    ------    -----    =----   =--=--     </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----     =--               </text>
+<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ---      --- --                                </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.20000;0.25000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
@@ -151,20 +151,20 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                        -----     ----    -----     </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     ------    -----    -----    -----     </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----    -----    -----     </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----#    ------    ---      ------   -----     </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -- --     ------    -----    ---##    -----     </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">   -------    ------    -----    ------   -----     </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    ------   -----     </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    ---##    ------   -----     </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    ------   ------    </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----     ----    ------    </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----                       </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ---                                            </text>
-<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ---      ------    -----     ---    -----      </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----    -----   ------     </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----    -----   ------     </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----   %-----   ---=--     </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --z--     ------    ---     %-----   ------     </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">   ---        ------    -----   %-----   ------     </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">   -------    ------    -----   %-----   ------     </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">   ------*    ------    -----   %-----   -----      </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">   ------*    ------    ---     %-----   ------     </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">   ------*    ------    -----    -----   ------     </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">   ------*    ------    -----    =----   ---=--     </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    =----   =--=--     </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----     =--               </text>
+<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     --- --                                </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.25000;0.30000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
@@ -174,20 +174,20 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                        -----     ----    -----     </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     ------    -----    -----    -----     </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----    ------   ------    </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    ---      ------   ------    </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -- --     ------    -----    ---##    ------    </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">   -------    ------    -----    ------   -----     </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    ------   -----     </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    ---##    ------   -----     </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    ------   ------    </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----     ----    ------    </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----                       </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ---                                            </text>
-<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ---      ------    -----     ---    -----      </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----    -----   ------     </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----    -----   ------     </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----    -----   ------     </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --z--     ------    ---      -----   ------     </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">   ---        ------    -----    -----   ------     </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">   -------    ------    -----    -----   ------     </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">   ------*    ------    -----    -----   -----      </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">   ------*    ------    ---      -----   ------     </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    -----   ------     </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    =----   ---=--     </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----z    ------    -----    =----   =--=--     </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----     =--               </text>
+<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ---      --- --                                </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.30000;0.35000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
@@ -197,20 +197,20 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                  %%    -----     ----    -----     </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     ------    -----    -----    ------    </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----    ------   ------    </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    ---      ------   ------    </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -- --     ------    -----    ---      ------    </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    ------   -----     </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    ------   -----     </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    ---%%    ------   -----     </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    =-----   ------    </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----z    ------    -----     ----    =--=--    </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    =----                       </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -                                              </text>
-<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     ------    -----     ----   %-----     </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     ------    -----    -----   %-----     </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----%    ------    -----    -----   %-----     </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----%    ------    -----    -----   %-----     </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    ---      -----   %-----     </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --%       ------    -----    ------  %-----     </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    ------  %-----     </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    ------  %-----     </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    ---      ------  %-----     </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    ------  %-----     </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    ------  %-----     </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----z    ------    -----    %----   %-----     </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----     =--               </text>
+<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ---      -----                                 </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.35000;0.40000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
@@ -220,20 +220,20 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">               %% %%    -----     ----    -----     </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     --- --    -----    -----    ------    </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     --- --    -----    ------   ------    </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    --- --    ---      ---=--   ---=--    </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --%--     ------    -----    ---      ------    </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    ------   ------    </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    ------   -----     </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    ---%%    ------   ------    </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    =-----   ------    </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----z    ------    -----     ----    =--=--    </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     --- --    =----      ---              </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     ------    -----     ----    -----     </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     ------    -----    -----    -----     </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    -----    ------    </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----*    ------    -----    -----    -----     </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    ---      -----    -----     </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --z       ------    -----    ------   -----     </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    ------   -----     </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    ------   -----     </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    ---      ------   -----     </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    ------   -----     </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    =-----   ------    </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----     ----    ------    </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----     ------    -----     =--      ----     </text>
+<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ---      --                                    </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.40000;0.45000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
@@ -243,19 +243,19 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      %%%      -- --    -----     ----     ----     </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     ------    -----     ----     -----    </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----     -----    -----    </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----+    ------    ---      ---=--    -----    </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+--     ------    -----    ---       -----    </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    ------    -----    </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----+    ------    -----    ------    -----    </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----+    ------    ---%%    ------    -----    </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----+    --+---    -----    %-----    -----    </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----c    --+---    -----     -----    ------   </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ---c     --c --    -----      ---      -----   </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     ------    -----     ----    -----     </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    -----+    -----     ----    ------    </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    -----+    -----    ------   ------    </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----+    -----+    -----    ------   ------    </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+--%    ------    ---      -----    ------    </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --c---    ------    -----    ------   ------    </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---    ------    -----    ------   ------    </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---    ------    -----    ------   -----     </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    ---      ------   ------    </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    ------   ------    </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----    =-----   ------    </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    -----     ----    ---=--    </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     ------    -----     =--      --=--    </text>
 <text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
@@ -266,19 +266,19 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ---      -- --    -----      ---     ----     </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    ------    -----     ----     -----    </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    ------    -----     -----    ------   </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    ------    --       ---+--    ------   </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+--     ------    -----    --- -     ------   </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---    ------    -----    ------    ------   </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---    ------    -----    ------    -----    </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---    ------    --       +-----    -----    </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    --+---    -----     -----    -----    </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    --+---    -----     -----    ------   </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ---c     --c---    -----      ---     +--+--   </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ---     ------    -----     ----     -----    </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    -----+    -----     ----     -----    </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    -----+    -----    ------    -----    </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------    -----+    -----    ------   %-----    </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    -----c    -----+    --       -----    %-----    </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---%   -----+    -----    ------   %-----    </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---%   -----+    -----    ------   %-----    </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    --+---%   -----+    -----    ------   %-----    </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------%   -----+    --       ------   %-----    </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------%   -----+    -----    ------   %-----    </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----%   -----+    -----    +-----   %-----    </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----c    -----+    -----     ----    %-----    </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----     -----c    -----     ----     ------   </text>
 <text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
@@ -289,20 +289,20 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ---%     -- --    -----      ---     %%%%     </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    ------    -----     ----     ------   </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----%   ------    -----     -----    ------   </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    ------    --=       --+--    ------   </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ---=      ------    -----    --- -     ------   </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------%   ------    -----    ------    ------   </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------=   ------    -----    ------    -----    </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   ------    --=       -----    -----    </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----c   --=---    -----     -----    ------   </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----c    --=---    -----     -----    ------   </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ---     --c---    -----      ---     +--+--   </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----    ------    -----     ----     -----    </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    -----=    -----     ----     -----    </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   -----=    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----c   -----=    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     --c-c    -----=    --=      -----     ------   </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   -----=    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   -----=    -----    -- ---    -----    </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   -----=    -----    -- ---    -----    </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   -----=    --=      ------    -----    </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   -----=    -----    ------    -----    </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----c   -----=    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    -----=    -----     -----    ------   </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ---     -----c    -----     ----     ------   </text>
+<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                               --   </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.55000;0.60000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
@@ -312,20 +312,20 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----    --- --    -----      %%%              </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   ------    -----     ----      -----   </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   -----=    -----     -----     -----   </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     --*--    -----=    --=       -----     -----   </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     --=%%%   -----=    -----    --- -      -----   </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   -----=    ----=    ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   -----=    ----*    ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   ------    --=      ------     ----    </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----*   --=---    -----     -----     -----   </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----*    --=---    -----     -----     -----   </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">              -- ---    -----      ---      --+--   </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----%   ------    -----      ---     -----    </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----   -----=    -----     ----     ------   </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   -----=    -----    %-----    ------   </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----*   -----=    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     --*--    -----=    --=      -----     ------   </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   -----=    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   -----=    -----    -- ---    ------   </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   -----=    -----    -- ---    ------   </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   -----=    --=      ------    -----    </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   -----=    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----*   -----=    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----    -----=    -----     -----    ------   </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ---     -----*    -----     ----     ------   </text>
+<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                           ---+--   </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.60000;0.65000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
@@ -335,20 +335,20 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----    --- --    -----                       </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   ------    -----     ----      -----   </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   ------    -----     -----     -----   </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   ------    ---      ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   ------    -----    --- -      -----   </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   ------    -----    ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   ------    ----*    ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   ------    ---      ------     ----    </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----*   ------    -----    ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----    ------    -----     -----     -----   </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                 ---    -----     ----      -- --   </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                               --   </text>
-<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">       ----   ------    -----      ---     -----    </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----   ------    -----     ----     ------   </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----   ------    -----     -----    ------   </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----*   ------    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ---*     ------    ---      ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%  ------    -----    ---%%     ------   </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%  ------    -----    -- ---    ------   </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%  ------    -----    -- ---    ------   </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%  ------    ---      ------    -----    </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----%  ------    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----   ------    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----     -----    -----     -----    ------   </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">               -----    -----     ----     ------   </text>
+<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                   --      ---+--   </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.65000;0.70000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
@@ -358,20 +358,20 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----%   ---%--    -----                       </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----   ------    -----     ----      -----   </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%  ------    -----     -----     -----   </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----*   ------    ---      ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%   -----    -----    --- -      -----   </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%   -----    -----    ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%   -----    ----*    ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%   -----    ---      ------     ----    </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----*    -----    -----    ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">       ---     -----    -----     -----     -----   </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                   -    -----     ----      -- --   </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                            -- --   </text>
-<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">       ----    -----    -----      ---     -----    </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----%   -----    -----     ----     ------   </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----%   -----    -----     -----    ------   </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----*%   -----    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      --*      -----    ---      ------    ---*--   </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ------   -----    -----    --*%      ------   </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ------   -----    -----    -- ---    ------   </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ------   -----    -----    -- ---    ------   </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ------   -----    ---      ------    -----    </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ------   -----    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----    -----    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">       ---%    -----    -----     -----    ------   </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">               -----    -----     ----     ------   </text>
+<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                  ---      *--*--   </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.70000;0.75000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
@@ -381,20 +381,20 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">       ---%    --%--    -----                       </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----    -----    -----     ----      -----   </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----%   -----    -----     -----     -----   </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----*    -----    ---      ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%   -----    -----    --- -      -----   </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%   -----    -----    ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%   -----    ----*    ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----%   -----    ---      ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----*    -----%   -----    ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">       ---     -----%   -----     -----     -----   </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                        -----     ----      -- --   </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                            -- --   </text>
-<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">       ----    -----    -----     ----     -----    </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----%   -----    -----     ----     ------   </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----%   -----    -----     -----    ------   </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----%   -----    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      --*      -----    ---      ------    ---*--   </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ------   -----    -----    --*       ------   </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ------   -----    -----    -- ---    ------   </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ------   -----    -----    -- ---    ------   </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ------   -----    ---      ------    -----    </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ------   -----    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----    -----    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">       ---*    -----    -----     -----    ------   </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">               -----    -----     ----     ------   </text>
+<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                  ---      *--*--   </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.75000;0.80000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
@@ -404,20 +404,20 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----%   ---%--    -----                       </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----   ------    -----     ----      -----   </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%  ------    -----     -----     -----   </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----*   ------    ---      ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%   -----    -----    --- -      -----   </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%   -----    -----    ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%   -----    ----*    ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%   -----    ---      ------     ----    </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----*    -----    -----    ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">       ---     -----    -----     -----     -----   </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                   -    -----     ----      -- --   </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                            -- --   </text>
-<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">       ----    -----    -----      ---     -----    </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----%   -----    -----     ----     ------   </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----%   -----    -----     -----    ------   </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----*%   -----    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      --*      -----    ---      ------    ---*--   </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ------   -----    -----    --*%      ------   </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ------   -----    -----    -- ---    ------   </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ------   -----    -----    -- ---    ------   </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ------   -----    ---      ------    -----    </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ------   -----    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----    -----    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">       ---%    -----    -----     -----    ------   </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">               -----    -----     ----     ------   </text>
+<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                  ---      *--*--   </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.80000;0.85000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
@@ -427,20 +427,20 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----    --- --    -----                       </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   ------    -----     ----      -----   </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   ------    -----     -----     -----   </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   ------    ---      ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   ------    -----    --- -      -----   </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   ------    -----    ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   ------    ----*    ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   ------    ---      ------     ----    </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----*   ------    -----    ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----    ------    -----     -----     -----   </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                 ---    -----     ----      -- --   </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                               --   </text>
-<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">       ----   ------    -----      ---     -----    </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----   ------    -----     ----     ------   </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----   ------    -----     -----    ------   </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----*   ------    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ---*     ------    ---      ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%  ------    -----    ---%%     ------   </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%  ------    -----    -- ---    ------   </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%  ------    -----    -- ---    ------   </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------%  ------    ---      ------    -----    </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----%  ------    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----   ------    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----     -----    -----     -----    ------   </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">               -----    -----     ----     ------   </text>
+<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                   --      ---+--   </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.85000;0.90000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
@@ -450,20 +450,20 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----    --- --    -----      %%%              </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   ------    -----     ----      -----   </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   -----=    -----     -----     -----   </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     --*--    -----=    --=       -----     -----   </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     --=%%%   -----=    -----    --- -      -----   </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   -----=    ----=    ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   -----=    ----*    ------     -----   </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   ------    --=      ------     ----    </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----*   --=---    -----     -----     -----   </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----*    --=---    -----     -----     -----   </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">              -- ---    -----      ---      --+--   </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----%   ------    -----      ---     -----    </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      -----   -----=    -----     ----     ------   </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   -----=    -----    %-----    ------   </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----*   -----=    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     --*--    -----=    --=      -----     ------   </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   -----=    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   -----=    -----    -- ---    ------   </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   -----=    -----    -- ---    ------   </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   -----=    --=      ------    -----    </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   -----=    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----*   -----=    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----    -----=    -----     -----    ------   </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ---     -----*    -----     ----     ------   </text>
+<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                           ---+--   </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.90000;0.95000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
@@ -473,20 +473,20 @@
 <text xml:space="preserve" x="40.0" y="85" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="100" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="115" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ---%     -- --    -----      ---     %%%%     </text>
-<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    ------    -----     ----     ------   </text>
-<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----%   ------    -----     -----    ------   </text>
-<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    ------    --=       --+--    ------   </text>
-<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ---=      ------    -----    --- -     ------   </text>
-<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------%   ------    -----    ------    ------   </text>
-<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">    ------=   ------    -----    ------    -----    </text>
-<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   ------    --=       -----    -----    </text>
-<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----c   --=---    -----     -----    ------   </text>
-<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ----c    --=---    -----     -----    ------   </text>
-<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ---     --c---    -----      ---     +--+--   </text>
-<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
-<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
+<text xml:space="preserve" x="40.0" y="130" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ----    ------    -----     ----     -----    </text>
+<text xml:space="preserve" x="40.0" y="145" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    -----=    -----     ----     -----    </text>
+<text xml:space="preserve" x="40.0" y="160" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   -----=    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="175" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----c   -----=    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="190" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     --c-c    -----=    --=      -----     ------   </text>
+<text xml:space="preserve" x="40.0" y="205" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     ------   -----=    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="220" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   -----=    -----    -- ---    -----    </text>
+<text xml:space="preserve" x="40.0" y="235" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   -----=    -----    -- ---    -----    </text>
+<text xml:space="preserve" x="40.0" y="250" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   -----=    --=      ------    -----    </text>
+<text xml:space="preserve" x="40.0" y="265" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----=   -----=    -----    ------    -----    </text>
+<text xml:space="preserve" x="40.0" y="280" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----c   -----=    -----    ------    ------   </text>
+<text xml:space="preserve" x="40.0" y="295" font-size="14.3" textLength="410.0" lengthAdjust="spacing">     -----    -----=    -----     -----    ------   </text>
+<text xml:space="preserve" x="40.0" y="310" font-size="14.3" textLength="410.0" lengthAdjust="spacing">      ---     -----c    -----     ----     ------   </text>
+<text xml:space="preserve" x="40.0" y="325" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                               --   </text>
 <text xml:space="preserve" x="40.0" y="340" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <text xml:space="preserve" x="40.0" y="355" font-size="14.3" textLength="410.0" lengthAdjust="spacing">                                                    </text>
 <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.95000;1.00000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
