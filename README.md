@@ -3,12 +3,12 @@
 # Hi 👋, I'm Niño Redoble
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%26+Network+Engineer;BS+Information+Technology+%E2%80%94+Magna+Cum+Laude;CCNA+Certified+%E2%80%94+Enterprise+Networking+%26+Security;Architecting+Modern+Web+%26+Cloud+Deployments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=3000&pause=1000&color=E24E1B&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%26+Systems+Architect;Architecting+Resilient+Web+%26+Distributed+Deployments;High-Performance+Backends+%26+Interactive+Experiences;Systems-First+Engineering" alt="Typing SVG" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/g-redoble)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:redoble.gninoemmanuel@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Website-2B4C82?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ninoredoble.is-a.dev/)
+[![Portfolio](https://img.shields.io/badge/Website-E24E1B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ninoredoble.is-a.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ninoredoble)
 
 <br/><br/>
@@ -29,16 +29,16 @@
 <table>
   <tr>
     <td width="70%">
-      <p>I'm <b>Niño Redoble (GNEGR)</b> — a Full-Stack Developer & CCNA-Certified Network Engineer crafting resilient web apps, cloud architectures, and secure networks.</p>
+      <p>I'm <b>Ni&ntilde;o Redoble (GNEGR)</b> &mdash; a Systems Developer and Full-Stack Software Engineer who crafts resilient distributed applications, high-concurrency backends, and sleek digital experiences.</p>
       <ul>
-        <li>🎓 <b>BS in Information Technology (Magna Cum Laude)</b> — USTP</li>
-        <li>💼 <b>System Development & UI/UX Intern</b> @ CEPALCO (React, FastAPI, Docker, Nginx)</li>
-        <li>🌐 <b>CCNA Certified</b> — Enterprise Networking, Security & Automation (Credly)</li>
-        <li>👥 <b>Project Lead & Analyst</b> @ BuyNaBay (Campus Marketplace, React Native)</li>
+        <li>&#128188; <b>System Development &amp; UI/UX Engineering</b> @ CEPALCO (React, FastAPI, Docker, Nginx)</li>
+        <li>&#9889; <b>Distributed Systems Architecture</b> &mdash; Event telemetry, real-time SCADA boards, API mesh platforms</li>
+        <li>&#128101; <b>Project Lead &amp; Architect</b> @ BuyNaBay (Campus Marketplace, React Native, Mobile Ecosystem)</li>
+        <li>&#128640; <b>Shipped 7+ Production Systems</b> across enterprise logistics, telemetry, and modern web platforms</li>
       </ul>
     </td>
     <td width="30%" align="center">
-      <img src="https://raw.githubusercontent.com/ninoredoble/gnegr-portfolio/main/img/GNEGR.svg" width="180" alt="GNEGR Brand Emblem" /><br/>
+      <img src="https://raw.githubusercontent.com/ninoredoble/gnegr-portfolio/main/img/gnegr.png" width="180" alt="GNEGR Brand Emblem" /><br/>
     </td>
   </tr>
 </table>
